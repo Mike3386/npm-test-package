@@ -1,0 +1,20 @@
+{
+  "name": "npm-test-package",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/Mike3386/npm-package.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike3386",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "needle": "^1.6.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.0",
+    "needle": "^1.6.0"
+  }
+}
